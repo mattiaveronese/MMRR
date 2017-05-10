@@ -3,6 +3,8 @@ In this work we introduce a novel partial volume correction (PVC) method called 
 MMRR performance was tested on a phantom acquisition and in a dataset comprising [11C]PIB PET and MR T1- and T2-weighted images of 8 healthy controls and 20 MS patients. For further information please refer to JCBFM publication
 
 The project contains
-- MMRR source (Run in Matlab 2012b)
+- MMRR source code (Run in Matlab 2012b)
 - The accepted version of the manuscript and supplementary material
 - A representative datatest
+
+For any information please contact me: mattia.veronese@kcl.ac.uk
