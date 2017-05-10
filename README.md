@@ -5,6 +5,5 @@ MMRR performance was tested on a phantom acquisition and in a dataset comprising
 The project contains
 - MMRR source code (Run in Matlab 2012b)
 - The accepted version of the manuscript and supplementary material
-- A representative datatest
 
 For any information please contact me: mattia.veronese@kcl.ac.uk
